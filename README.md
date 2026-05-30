@@ -28,15 +28,20 @@ This repository contains my Python practice programs, assignments, and exercises
 
 ### Repository Structure
 
-- `advancefunctions.ipynb` – Advanced function concepts and exercises
-- `assignment_question.ipynb` – Assignment questions
-- `assignments.ipynb` – Python practice assignments
-- `list_Assignment.ipynb` – List-related exercises
-- `tuple_assignment.ipynb` – Tuple-related exercises
-- `dictionaries_assignment.ipynb` – Dictionary-related exercises
-- `sets_assignment.ipynb` – Set-related exercises
-- `filehandlingquestions/` – File handling programs and exercises
-- `packagessolution/` – Package creation and import examples
+#### Assignments
+- `assignments.ipynb`
+- `assignment_question.ipynb`
+
+#### Data Structures
+- `list_Assignment.ipynb`
+- `tuple_assignment.ipynb`
+- `dictionaries_assignment.ipynb`
+- `sets_assignment.ipynb`
+
+#### Advanced Topics
+- `advancefunctions.ipynb`
+- `filehandlingquestions/`
+- `packagessolution/`
 
 ## Purpose
 
