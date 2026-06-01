@@ -42,6 +42,7 @@ This repository contains my Python practice programs, assignments, and exercises
 - `advancefunctions.ipynb`
 - `filehandlingquestions/`
 - `packagessolution/`
+- `exceptionhandlingsolution/`
 
 ## Purpose
 
