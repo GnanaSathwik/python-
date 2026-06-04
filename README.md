@@ -38,6 +38,9 @@ This repository contains my Python practice programs, assignments, and exercises
 - `dictionaries_assignment.ipynb`
 - `sets_assignment.ipynb`
 
+#### Object-Oriented Programming
+- `classesobjectssolution/`
+
 #### Advanced Topics
 - `advancefunctions.ipynb`
 - `filehandlingquestions/`
