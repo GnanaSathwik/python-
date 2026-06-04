@@ -40,6 +40,7 @@ This repository contains my Python practice programs, assignments, and exercises
 
 #### Object-Oriented Programming
 - `classesobjectssolution/`
+- `inhertiancequestions.ipynb`
 
 #### Advanced Topics
 - `advancefunctions.ipynb`
