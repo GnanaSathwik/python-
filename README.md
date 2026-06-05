@@ -25,6 +25,7 @@ This repository contains my Python practice programs, assignments, and exercises
 - Modules and Packages
 - Exception Handling
 - Object-Oriented Programming (Basic Concepts)
+- Magic Methods
 
 ### Repository Structure
 
