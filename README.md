@@ -11,6 +11,11 @@ This repository contains my Python practice programs, assignments, and exercises
 - Sets
 - Advanced Functions
 - General Python Assignments
+- Package
+- File Handling
+- Exceptional Handling
+- Class and Objects
+- Iterator, Generator, Decorators
 
 ### Python Concepts Covered
 - Variables and Data Types
@@ -26,6 +31,8 @@ This repository contains my Python practice programs, assignments, and exercises
 - Exception Handling
 - Object-Oriented Programming (Basic Concepts)
 - Magic Methods
+- Iterator, Generator, Decorators
+  
 
 ### Repository Structure
 
@@ -49,6 +56,7 @@ This repository contains my Python practice programs, assignments, and exercises
 - `filehandlingquestions/`
 - `packagessolution/`
 - `exceptionhandlingsolution/`
+- `itergendecorsolutions`
 
 ## Purpose
 
