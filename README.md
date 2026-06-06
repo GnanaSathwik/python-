@@ -11,7 +11,7 @@ This repository contains my Python practice programs, assignments, and exercises
 - Sets
 - Advanced Functions
 - General Python Assignments
-- Package
+- Packages 
 - File Handling
 - Exceptional Handling
 - Class and Objects
