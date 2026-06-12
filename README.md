@@ -11,7 +11,7 @@ This repository contains my Python practice programs, assignments, and exercises
 - Sets
 - Advanced Functions
 - General Python Assignments
-- Packages 
+- Packages  
 - File Handling
 - Exceptional Handling
 - Class and Objects
@@ -32,6 +32,20 @@ This repository contains my Python practice programs, assignments, and exercises
 - Object-Oriented Programming (Basic Concepts)
 - Magic Methods
 - Iterator, Generator, Decorators
+
+## Libraries Covered
+
+### NumPy
+- Array Operations
+- Indexing and Slicing
+- Array Manipulation
+- Statistical Operations
+- Broadcasting
+- Matrix Operations
+- Linear Algebra
+- Fancy and Boolean Indexing
+- Structured Arrays
+- Masked Arrays
   
 
 ### Repository Structure
@@ -57,6 +71,9 @@ This repository contains my Python practice programs, assignments, and exercises
 - `packagessolution/`
 - `exceptionhandlingsolution/`
 - `itergendecorsolutions`
+
+#### Library Assignments
+- `numpyassignments.ipynb`
 
 ## Purpose
 
