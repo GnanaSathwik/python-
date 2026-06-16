@@ -47,8 +47,7 @@ This repository contains my Python practice programs, assignments, and exercises
 - Structured Arrays
 - Masked Arrays
 
-## Pandas Topics Covered
-
+### Pandas
 - DataFrame Creation and Manipulation
 - Indexing and Selection
 - Data Cleaning and Missing Values
