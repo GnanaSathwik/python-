@@ -85,7 +85,7 @@ This repository contains my Python practice programs, assignments, and exercises
 - `exceptionhandlingsolution/`
 - `itergendecorsolutions`
 
-#### Library Assignments
+#### Libraries Assignments
 - `numpyassignments.ipynb`
 - `pandasasssignments.ipynb`
 
