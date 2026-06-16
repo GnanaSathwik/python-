@@ -46,6 +46,19 @@ This repository contains my Python practice programs, assignments, and exercises
 - Fancy and Boolean Indexing
 - Structured Arrays
 - Masked Arrays
+
+## Pandas Topics Covered
+
+- DataFrame Creation and Manipulation
+- Indexing and Selection
+- Data Cleaning and Missing Values
+- Aggregation and GroupBy Operations
+- Merging and Concatenation
+- Time Series Analysis
+- MultiIndex DataFrames
+- Pivot Tables
+- Function Application and Transformations
+- String and Text Operations
   
 
 ### Repository Structure
@@ -74,6 +87,7 @@ This repository contains my Python practice programs, assignments, and exercises
 
 #### Library Assignments
 - `numpyassignments.ipynb`
+- `pandasasssignments.ipynb`
 
 ## Purpose
 
