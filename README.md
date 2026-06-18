@@ -58,7 +58,23 @@ This repository contains my Python practice programs, assignments, and exercises
 - Pivot Tables
 - Function Application and Transformations
 - String and Text Operations
-  
+
+### SQLite3
+- Database Creation and Connection
+- Table Creation and Management
+- SQL Query Execution
+- CRUD Operations (Create, Read, Update, Delete)
+- Data Filtering and Search Queries
+- Transaction Management
+- Batch Insert and Update Operations
+- Foreign Key Constraints
+- Relational Database Design
+- Referential Integrity
+- Database Indexing and Optimization
+- Query Performance Analysis
+- Database Backup and Restore
+- Error Handling and Rollback Mechanisms
+- Python SQLite3 Integration
 
 ### Repository Structure
 
@@ -87,6 +103,7 @@ This repository contains my Python practice programs, assignments, and exercises
 #### Libraries Assignments
 - `numpyassignments.ipynb`
 - `pandasasssignments.ipynb`
+- `Module_SQLite3_Assignments_Solution`
 
 ## Purpose
 
