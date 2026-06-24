@@ -102,6 +102,7 @@ This repository contains my Python practice programs, assignments, and exercises
 
 #### Libraries Assignments
 - `numpyassignments.ipynb`
+- `Numpy Assignments`
 - `pandasasssignments.ipynb`
 - `Module_SQLite3_Assignments_Solution`
 
